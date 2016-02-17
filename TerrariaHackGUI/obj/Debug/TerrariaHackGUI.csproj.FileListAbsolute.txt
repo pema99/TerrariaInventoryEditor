@@ -1,0 +1,18 @@
+C:\Users\Ejer\Downloads\DeleteMe\TerrariaHackGUI\TerrariaHackGUI\bin\Debug\TerrariaHackGUI.exe.config
+C:\Users\Ejer\Downloads\DeleteMe\TerrariaHackGUI\TerrariaHackGUI\bin\Debug\TerrariaHackGUI.exe
+C:\Users\Ejer\Downloads\DeleteMe\TerrariaHackGUI\TerrariaHackGUI\bin\Debug\TerrariaHackGUI.pdb
+C:\Users\Ejer\Downloads\DeleteMe\TerrariaHackGUI\TerrariaHackGUI\obj\Debug\TerrariaHackGUI.csprojResolveAssemblyReference.cache
+C:\Users\Ejer\Downloads\DeleteMe\TerrariaHackGUI\TerrariaHackGUI\obj\Debug\TerrariaHackGUI.TerrariaEditor.resources
+C:\Users\Ejer\Downloads\DeleteMe\TerrariaHackGUI\TerrariaHackGUI\obj\Debug\TerrariaHackGUI.Properties.Resources.resources
+C:\Users\Ejer\Downloads\DeleteMe\TerrariaHackGUI\TerrariaHackGUI\obj\Debug\TerrariaHackGUI.csproj.GenerateResource.Cache
+C:\Users\Ejer\Downloads\DeleteMe\TerrariaHackGUI\TerrariaHackGUI\obj\Debug\TerrariaHackGUI.exe
+C:\Users\Ejer\Downloads\DeleteMe\TerrariaHackGUI\TerrariaHackGUI\obj\Debug\TerrariaHackGUI.pdb
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\TerrariaHackGUI\TerrariaHackGUI\bin\Debug\TerrariaHackGUI.exe.config
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\TerrariaHackGUI\TerrariaHackGUI\obj\Debug\TerrariaHackGUI.exe
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\TerrariaHackGUI\TerrariaHackGUI\obj\Debug\TerrariaHackGUI.pdb
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\TerrariaHackGUI\TerrariaHackGUI\bin\Debug\TerrariaHackGUI.exe
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\TerrariaHackGUI\TerrariaHackGUI\bin\Debug\TerrariaHackGUI.pdb
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\TerrariaHackGUI\TerrariaHackGUI\obj\Debug\TerrariaHackGUI.csprojResolveAssemblyReference.cache
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\TerrariaHackGUI\TerrariaHackGUI\obj\Debug\TerrariaHackGUI.TerrariaEditor.resources
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\TerrariaHackGUI\TerrariaHackGUI\obj\Debug\TerrariaHackGUI.Properties.Resources.resources
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\TerrariaHackGUI\TerrariaHackGUI\obj\Debug\TerrariaHackGUI.csproj.GenerateResource.Cache
