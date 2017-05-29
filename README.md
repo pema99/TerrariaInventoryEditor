@@ -15,10 +15,10 @@ ___
 
 ___
 
-##Q: License?
-##A: Zlib/png license. Check the LICENSE file.
+## Q: License?
+## A: Zlib/png license. Check the LICENSE file.
 
 ___
 
-##Q: This messed up my characters / will this mess up my character?
-##A: Read the disclaimer popup when you launch the editor. Backup your characters. Be responsible.
+## Q: This messed up my characters / will this mess up my character?
+## A: Read the disclaimer popup when you launch the editor. Backup your characters. Be responsible.
